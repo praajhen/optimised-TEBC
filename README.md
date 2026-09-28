@@ -1,4 +1,4 @@
-# Personalised cardiorespiratory timing of trace eyeblink conditioning: analysis code
+# Optimised, cardiorespiratory state, trace eyeblink conditioning: analysis code
 
 MATLAB/FieldTrip code for:
 
