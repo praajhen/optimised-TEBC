@@ -1,0 +1,9 @@
+# Never commit participant data or derivatives
+*.edf
+*.mat
+*.csv
+*.xlsx
+derivatives/
+figures/
+*.asv
+*.m~
